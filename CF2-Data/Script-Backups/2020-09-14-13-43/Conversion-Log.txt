@@ -1,0 +1,64 @@
+Converting script [1 / 10]	[\EasyMainMenu\Scripts\EasyInputUtility\Scripts\EasyInputUtility.cs]
+	Fragments : 4
+		[ 0] : Line:   49	InputMethod   GetKey              	(a.negativeKey)
+		[ 1] : Line:   50	InputMethod   GetKey              	(a.positiveKey)
+		[ 2] : Line:   91	InputMethod   GetKey              	(Axes[i].positiveKey)
+		[ 3] : Line:  112	InputMethod   GetKeyDown          	(Axes[i].positiveKey)
+
+Converting script [2 / 10]	[\EasyMainMenu\Scripts\EasyInputUtility\Scripts\EIU_ControlsMenu.cs]
+	Fragments : 2
+		[ 0] : Line:   87	InputMethod   GetKey              	(a.negativeKey)
+		[ 1] : Line:   88	InputMethod   GetKey              	(a.positiveKey)
+
+Converting script [3 / 10]	[\EasyMainMenu\Scripts\inGame Scripts\PauseMenu\UIController.cs]
+	Fragments : 3
+		[ 0] : Line:   50	Other mod.	[Cursor.visible]
+		[ 1] : Line:   51	Other mod.	[Cursor.lockState]
+		[ 2] : Line:   58	InputMethod   GetKeyDown          	(KeyCode.Escape)
+
+Converting script [4 / 10]	[\EasyMainMenu\Scripts\inGame Scripts\SaveGame Scripts\SaveGameTrigger.cs]
+	Fragments : 1
+		[ 0] : Line:   55	InputMethod   GetKeyDown          	(saveUI.GetComponent<SaveGameUI>()
+
+Converting script [5 / 10]	[\EasyMainMenu\Scripts\inGame Scripts\SaveGame Scripts\SaveGameUI.cs]
+	Fragments : 1
+		[ 0] : Line:   63	InputMethod   GetKeyDown          	(key)
+
+Converting script [6 / 10]	[\EasyMainMenu\Scripts\Loading Screen Scripts\LoadingScreen.cs]
+	Fragments : 1
+		[ 0] : Line:  182	InputProperty anyKeyDown          
+
+Converting script [7 / 10]	[\EasyMainMenu\Scripts\Main Menu Scripts\OptionsController_Graphics.cs]
+	Fragments : 2
+		[ 0] : Line:   75	Other mod.	[Screen.SetResolution(Screen.width, Screen.height, toggleFullscreen == 1 ? true : false)]
+		[ 1] : Line:   95	Other mod.	[Screen.SetResolution(Screen.width, Screen.height, toggleFullscreen == 1 ? true : false)]
+
+Converting script [8 / 10]	[\EasyMainMenu\Scripts\Main Menu Scripts\New Main Menu\GraphicsMenuController.cs]
+	Fragments : 2
+		[ 0] : Line:  349	Other mod.	[Screen.SetResolution(width, height, true)]
+		[ 1] : Line:  399	Other mod.	[Screen.SetResolution(width, height, true)]
+
+Converting script [9 / 10]	[\EasyMainMenu\Scripts\Main Menu Scripts\New Main Menu\MainMenuCharIK.cs]
+	Fragments : 1
+		[ 0] : Line:   79	InputMethod   GetAxis             	("Mouse X")
+
+Converting script [10 / 10]	[\EasyMainMenu\Scripts\SimpleCube\SimpleCube.cs]
+	Fragments : 2
+		[ 0] : Line:   26	InputMethod   GetAxis             	("Horizontal")
+		[ 1] : Line:   27	InputMethod   GetAxis             	("Vertical")
+
+
+10 scripts modified!
+Overwriting actual scripts...
+	[0 / 10] from  [C:/Users/Game/Desktop/New folder (2)/New Unity Project (1)/CF2-Data/Script-Backups/2020-09-14-13-43\Assets-After/\EasyMainMenu\Scripts\EasyInputUtility\Scripts\EasyInputUtility.cs] to [C:/Users/Game/Desktop/New folder (2)/New Unity Project (1)/Assets/\EasyMainMenu\Scripts\EasyInputUtility\Scripts\EasyInputUtility.cs]
+	[1 / 10] from  [C:/Users/Game/Desktop/New folder (2)/New Unity Project (1)/CF2-Data/Script-Backups/2020-09-14-13-43\Assets-After/\EasyMainMenu\Scripts\EasyInputUtility\Scripts\EIU_ControlsMenu.cs] to [C:/Users/Game/Desktop/New folder (2)/New Unity Project (1)/Assets/\EasyMainMenu\Scripts\EasyInputUtility\Scripts\EIU_ControlsMenu.cs]
+	[2 / 10] from  [C:/Users/Game/Desktop/New folder (2)/New Unity Project (1)/CF2-Data/Script-Backups/2020-09-14-13-43\Assets-After/\EasyMainMenu\Scripts\inGame Scripts\PauseMenu\UIController.cs] to [C:/Users/Game/Desktop/New folder (2)/New Unity Project (1)/Assets/\EasyMainMenu\Scripts\inGame Scripts\PauseMenu\UIController.cs]
+	[3 / 10] from  [C:/Users/Game/Desktop/New folder (2)/New Unity Project (1)/CF2-Data/Script-Backups/2020-09-14-13-43\Assets-After/\EasyMainMenu\Scripts\inGame Scripts\SaveGame Scripts\SaveGameTrigger.cs] to [C:/Users/Game/Desktop/New folder (2)/New Unity Project (1)/Assets/\EasyMainMenu\Scripts\inGame Scripts\SaveGame Scripts\SaveGameTrigger.cs]
+	[4 / 10] from  [C:/Users/Game/Desktop/New folder (2)/New Unity Project (1)/CF2-Data/Script-Backups/2020-09-14-13-43\Assets-After/\EasyMainMenu\Scripts\inGame Scripts\SaveGame Scripts\SaveGameUI.cs] to [C:/Users/Game/Desktop/New folder (2)/New Unity Project (1)/Assets/\EasyMainMenu\Scripts\inGame Scripts\SaveGame Scripts\SaveGameUI.cs]
+	[5 / 10] from  [C:/Users/Game/Desktop/New folder (2)/New Unity Project (1)/CF2-Data/Script-Backups/2020-09-14-13-43\Assets-After/\EasyMainMenu\Scripts\Loading Screen Scripts\LoadingScreen.cs] to [C:/Users/Game/Desktop/New folder (2)/New Unity Project (1)/Assets/\EasyMainMenu\Scripts\Loading Screen Scripts\LoadingScreen.cs]
+	[6 / 10] from  [C:/Users/Game/Desktop/New folder (2)/New Unity Project (1)/CF2-Data/Script-Backups/2020-09-14-13-43\Assets-After/\EasyMainMenu\Scripts\Main Menu Scripts\OptionsController_Graphics.cs] to [C:/Users/Game/Desktop/New folder (2)/New Unity Project (1)/Assets/\EasyMainMenu\Scripts\Main Menu Scripts\OptionsController_Graphics.cs]
+	[7 / 10] from  [C:/Users/Game/Desktop/New folder (2)/New Unity Project (1)/CF2-Data/Script-Backups/2020-09-14-13-43\Assets-After/\EasyMainMenu\Scripts\Main Menu Scripts\New Main Menu\GraphicsMenuController.cs] to [C:/Users/Game/Desktop/New folder (2)/New Unity Project (1)/Assets/\EasyMainMenu\Scripts\Main Menu Scripts\New Main Menu\GraphicsMenuController.cs]
+	[8 / 10] from  [C:/Users/Game/Desktop/New folder (2)/New Unity Project (1)/CF2-Data/Script-Backups/2020-09-14-13-43\Assets-After/\EasyMainMenu\Scripts\Main Menu Scripts\New Main Menu\MainMenuCharIK.cs] to [C:/Users/Game/Desktop/New folder (2)/New Unity Project (1)/Assets/\EasyMainMenu\Scripts\Main Menu Scripts\New Main Menu\MainMenuCharIK.cs]
+	[9 / 10] from  [C:/Users/Game/Desktop/New folder (2)/New Unity Project (1)/CF2-Data/Script-Backups/2020-09-14-13-43\Assets-After/\EasyMainMenu\Scripts\SimpleCube\SimpleCube.cs] to [C:/Users/Game/Desktop/New folder (2)/New Unity Project (1)/Assets/\EasyMainMenu\Scripts\SimpleCube\SimpleCube.cs]
+
+Overwriting COMPLETED!

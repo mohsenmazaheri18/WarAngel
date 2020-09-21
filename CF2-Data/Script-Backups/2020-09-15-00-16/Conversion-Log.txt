@@ -1,0 +1,11 @@
+Converting script [1 / 1]	[\Low Poly FPS Pack\Components\Scripts\FPSController\FpsControllerLPFP.cs]
+	Fragments : 2
+		[ 0] : Line:  154	InputMethod   GetKeyDown          	(KeyCode.C)
+		[ 1] : Line:  158	InputMethod   GetKeyDown          	(KeyCode.M)
+
+
+1 scripts modified!
+Overwriting actual scripts...
+	[0 / 1] from  [C:/Users/Game/Desktop/New folder (2)/New Unity Project (1)/CF2-Data/Script-Backups/2020-09-15-00-16\Assets-After/\Low Poly FPS Pack\Components\Scripts\FPSController\FpsControllerLPFP.cs] to [C:/Users/Game/Desktop/New folder (2)/New Unity Project (1)/Assets/\Low Poly FPS Pack\Components\Scripts\FPSController\FpsControllerLPFP.cs]
+
+Overwriting COMPLETED!
